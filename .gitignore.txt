@@ -10,8 +10,8 @@ pnpm-debug.log*
 .env.local
 .env.*.local
 
-# ---- Logs ----
-logs/
+# ---- Logs ----        
+logs/   
 *.log
 debug.log
 error.log
@@ -19,6 +19,7 @@ error.log
 # ---- Build Artifacts ----
 dist/
 build/
+node_modules/
 out/
 .cache/
 .next/
@@ -41,7 +42,6 @@ Thumbs.db
 
 # ---- Git ----
 .git/
-.gitignore
 
 # ---- HuggingFace ----
 # Model weights & checkpoints (if any)
