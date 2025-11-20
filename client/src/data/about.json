@@ -1,0 +1,16 @@
+{
+  "name": "Muhammad Khubaib Ahmad",
+  "title": "Applied AI/ML Engineer | Data Scientist ",
+  "location": "Multan, Punjab, Pakistan",
+  "contact": "Contact info",
+  "summary": "Experienced in building and deploying real-world AI systems across speech, computer vision, NLP, and generative AI. Proficient in end-to-end pipelines from data collection and model training to deployment, focusing on practical applications and research-driven innovations.",
+  "highlights": [
+"Speech & Audio AI: Expertise in speech recognition, speaker & emotion analysis, vocal fatigue detection(research tool), audio feature extraction, and building ML/DL models for real-time and research applications.",
+    "Computer Vision: Skilled in image/video analysis, object detection, action recognition, facial expression & emotion recognition, and building ML/DL pipelines for real-time and research applications.",
+    "NLP & LLMs: Skilled in designing and deploying advanced natural language processing solutions, including large language models, conversational AI, question-answering systems, and semantic understanding pipelines for real-world applications.",
+    "Generative AI: Experienced in developing and deploying generative AI models for text, image, and multimodal content, creating intelligent assistants, automated content generation systems, and research-driven creative AI solutions.",
+    "Engineering & Deployment: PyTorch, TensorFlow, FastAPI, Keras, Streamlit, Docker, Hugging Face Spaces, Postgres, Redis,MLflow, weights & biases, pgvector.",
+    "Research and Publications: Forecasting based decision support system for MMD (published preprint); Explainable AI framework for early vocal fatigue detection(ongoing)"
+  ],
+  "goals": "I’m passionate about AI that interacts with humans naturally and safely, turning signal and data into actionable insights."
+}

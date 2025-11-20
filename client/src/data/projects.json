@@ -1,0 +1,99 @@
+[
+  {
+    "title":"SpeechSense (Research Tool)",
+    "description":"Detects early vocal fatigue using neural embeddings. Implements ML-based fatigue prediction. Generates clinical voice health reports.",
+    "link":"https://speachsense.streamlit.app",
+    "duration":"2025"
+
+  },
+  {
+    "title": "faker-pk (Python Library)",
+    "description": "Python library for generating fake Pakistani personal & company data. Supports names, CNIC, phone numbers, addresses. Useful for prototyping, testing, and demos.",
+    "link": "https://libraries.io/pypi/faker-pk",
+    "duration": "2025"
+  },
+  {
+    "title": "Voice Verification System",
+    "description": "Real-time voice authentication using ECAPA embeddings and logistic regression. Fully on-device. Ensures secure identity verification.",
+    "link": "https://github.com/example/voice-verification",
+    "duration": "2025"
+  },
+  {
+    "title": "DataForge",
+    "description": "Multi-agent system automating data quality checks, cleaning, visualization, and queries. Generates PDF reports with explainable AI. Speeds up data analysis workflow",
+    "link": "https://dataforge-ai.streamlit.app",
+    "duration": "2025"
+  },
+  {
+    "title":"Multimodal AI System",
+    "description":"Combines computer vision and NLP for emotion and behavioral confidence detection. Processes video and text inputs. Provides multimodal insights.",
+    "link":"Locally Hosted",
+    "duration":"Dec-2024"
+  },
+  {
+    "title":"Vigilant Eye",
+    "description":"Real-time violence detection using CNNs and OpenCV. Monitors live video feeds. Triggers alerts on violent activity.",
+    "link":"https://vigilanteye.streamlit.app/",
+    "duration":"2024"
+  },
+  {
+    "title":"Airflow Data Pipelines",
+    "description":"Automated ETL pipelines for ML data preparation. Ensures consistent data ingestion and transformation. Supports scalable workflow management.",
+    "link":["images/AirFlowDataPipeLines/img1.jpg","images/AirFlowDataPipeLines/img2.jpg"],
+    "duration":"Jan-2025"
+  },
+  {
+    "title":"n8n AI Agents (Workflow Automation)",
+    "description":"Automates repetitive tasks using n8n, LangChain, and APIs. Orchestrates multi-step workflows. Reduces manual intervention.",
+    "link":["images/n8nAIAgents/img1.jpg","images/n8nAIAgents/img2.jpg"],
+    "duration":"2025"
+  },
+  {
+    "title":"Predictive & Forecasting Models",
+    "description":"Time-series forecasting and classification models. Includes anomaly detection. Supports actionable data insights.",
+    "link":"https://example.com/churn-prediction",
+    "duration":"Nov-2024"
+  },
+  {
+    "title":"Student Dropout Risk & Clustering Web App",
+    "description":"ML-based clustering to identify at-risk students. Provides dropout risk analysis. Web interface for visualization.",
+    "link":"https://student-dropout-risk-and-behavior-clustering-ai-tool.streamlit.app/",
+    "duration":"2024"
+  },
+  {
+    "title": "ECAPA Acoustic Domain Classifier",
+    "description": "Lightweight audio classifier using ECAPA-TDNN embeddings. Distinguishes speech, music, and noise. Supports real-time edge deployment.",
+    "link": "https://huggingface.co/example/ecapa-classifier",
+    "duration": "2025"
+  },
+  {
+    "title": "AesthetiQ AI",
+    "description": "Intelligent photo evaluation and tone-matching tool. Provides enhancement suggestions for photographers and editors. Offers automated aesthetic scoring.",
+    "link": "https://aesthetiq-ai.streamlit.app",
+    "duration": "2025"
+  },
+  {
+    "title": "AskMyDoc",
+    "description": "Document Q/A bot for .txt, .pdf, and .docx files. Uses NLP to answer context-specific questions. Suitable for students and professionals.",
+    "link": "https://smart-nlp-bot.streamlit.app",
+    "duration": "2025"
+  },
+  {
+    "title": "Used Car Price Predictor App",
+    "description": "ML app predicting used car prices using Random Forest. Inputs include brand, year, mileage, fuel type, transmission. Achieves 93.8% prediction accuracy.",
+    "link": "https://carpricepredictionmodel-gtxyozdhqlie4qbp2chyfq.streamlit.app",
+    "duration": "2025"
+  },
+  {
+    "title": "Customer Churn Prediction Web App",
+    "description": "Predicts customer churn using ML models. Includes interactive visualizations and SHAP explainability. Helps businesses optimize retention strategies.",
+    "link": "https://example.com/churn-prediction",
+    "duration": "Apr 2025 - May 2025"
+  },
+  {
+    "title": "Real Estate Price Prediction Web App",
+    "description": "Forecasts real estate prices with ML models and Streamlit. Interactive dashboards with SHAP-based explainability. Supports live SQL queries for analytics.",
+    "link": "https://realestatepriceintelligentplatform-eenlpr9axdw2ah9gtctce8.streamlit.app",
+    "duration": "Jun 2025"
+  }
+]

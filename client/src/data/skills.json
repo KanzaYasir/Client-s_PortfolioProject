@@ -1,0 +1,52 @@
+{
+  "ProgrammingAndTools": [
+    "Python",
+    "SQL",
+    "C++",
+    "Git",
+    "Docker",
+    "AirFLow",
+    "VScode"
+  ],
+  "MachineLearning": [
+   " Scikit-learn", 
+   "XGBoost", 
+   "TensorFlow", 
+   "PyTorch", 
+   "Transformers" 
+  ],
+  "Domains": [
+     "Speech & Audio Analysis", 
+     "Computer Vision", 
+     "NLP", 
+     "Generative AI", 
+     "Chatbot development"
+  ],
+  "PipelinesAndDeployment" : [
+    " FastAPI", 
+    "Streamlit", 
+    "REST APIs", 
+    "CI/CD", 
+    "ETL", 
+    "Airflow DAGs" 
+  ],
+  "AutomationAndAgents":[
+    "n8n AI Agents", 
+    "LangChain", 
+    "API Integrations", 
+    "Crew-AI", 
+    "Auto-Gen"
+  ],
+  "DatabasesAndStorage":[
+     "PostgreSQL", 
+     "pgvector", 
+     "SQLite", 
+     "Redis "
+  ],
+  "Visualization": [
+    "Power BI", 
+    "Plotly", 
+    "Matplotlib", 
+    "Seaborn" 
+  ]
+  }
