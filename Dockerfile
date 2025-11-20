@@ -1,28 +1,34 @@
-# Use Node for building and serving
+# Use Node 18
 FROM node:18
 
-# Create workspace
+# Set working directory
 WORKDIR /app
 
-# Copy package files first
-COPY server/package*.json ./server/
-COPY client/package*.json ./client/
+# -------------------------------
+# 1. Copy entire client and server folders first
+# -------------------------------
+COPY server ./server
+COPY client ./client
 
-# Install backend dependencies
+# -------------------------------
+# 2. Install dependencies
+# -------------------------------
 RUN cd server && npm install
+RUN cd client && npm install
 
-# Install frontend dependencies and build React
-RUN cd client && npm install && npm run build
+# -------------------------------
+# 3. Build React frontend
+# -------------------------------
+RUN cd client && npm run build
 
-# Copy the rest of the code
-COPY . .
-
-# Tell Node to serve the built React app
+# -------------------------------
+# 4. Set environment variables
+# -------------------------------
 ENV NODE_ENV=production
-
-# Expose port (HF sets PORT environment var)
 ENV PORT=7860
 EXPOSE 7860
 
-# Start Node backend (server.js must serve React build)
+# -------------------------------
+# 5. Start Node backend (should serve React build)
+# -------------------------------
 CMD ["node", "server/server.js"]
